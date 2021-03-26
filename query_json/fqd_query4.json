@@ -1,0 +1,912 @@
+{
+	"<ds11_0_0>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<CoronavirusJobRetentionScheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<England>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.673^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_4_4>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<GovernmentBetweenfundedsmallbusinessgrantorloanschemes_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<UK>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.112^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_0_1>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Businessratesholiday_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<England>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.274^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_4_5>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Accreditedfinanceagreements_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<UK>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.099^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_0_2>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<DeferringVATpayments_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<England>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.573^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_4_6>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wehavenotappliedforanyoftheseinitiatives_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<UK>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.207^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_1_0>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<CoronavirusJobRetentionScheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wales>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.738^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_0_3>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<HMRCTimeToPayscheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<England>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.224^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_0_4>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<GovernmentBetweenfundedsmallbusinessgrantorloanschemes_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<England>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.109^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_1_1>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Businessratesholiday_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wales>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.387^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_1_2>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<DeferringVATpayments_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wales>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.651^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_0_5>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Accreditedfinanceagreements_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<England>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.097^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_0_6>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wehavenotappliedforanyoftheseinitiatives_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<England>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.205^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_2_0>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<CoronavirusJobRetentionScheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Scotland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.717^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_1_3>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<HMRCTimeToPayscheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wales>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.255^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_2_1>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Businessratesholiday_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Scotland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.29^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_1_4>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<GovernmentBetweenfundedsmallbusinessgrantorloanschemes_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wales>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.137^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_1_5>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Accreditedfinanceagreements_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wales>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.127^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_2_2>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<DeferringVATpayments_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Scotland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.63^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_1_6>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wehavenotappliedforanyoftheseinitiatives_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wales>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.134^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_3_0>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<CoronavirusJobRetentionScheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<NorthernIreland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.652^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_2_3>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<HMRCTimeToPayscheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Scotland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.235^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_2_4>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<GovernmentBetweenfundedsmallbusinessgrantorloanschemes_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Scotland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.075^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_3_1>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Businessratesholiday_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<NorthernIreland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.304^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_2_5>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Accreditedfinanceagreements_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Scotland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.098^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_3_2>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<DeferringVATpayments_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<NorthernIreland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.402^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_3_3>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<HMRCTimeToPayscheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<NorthernIreland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.13^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_2_6>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wehavenotappliedforanyoftheseinitiatives_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Scotland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.165^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_4_0>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<CoronavirusJobRetentionScheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<UK>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.672^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_3_4>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<GovernmentBetweenfundedsmallbusinessgrantorloanschemes_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<NorthernIreland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.109^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_4_1>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Businessratesholiday_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<UK>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.274^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_4_2>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<DeferringVATpayments_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<UK>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.564^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_3_5>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Accreditedfinanceagreements_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<NorthernIreland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.065^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_4_3>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<HMRCTimeToPayscheme_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<UK>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.223^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	],
+	"<ds11_3_6>": [
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<TP06to19April2020_1>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<Wehavenotappliedforanyoftheseinitiatives_3>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#dimension",
+			"o": "<NorthernIreland>"
+		},
+		{
+			"p": "http://purl.org/linked-data/cube#observation",
+			"o": "<ds11>"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+			"o": "0.239^^http://www.w3.org/2001/XMLSchema#decimal"
+		},
+		{
+			"p": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"o": "http://purl.org/linked-data/cube#Observation"
+		}
+	]
+}
